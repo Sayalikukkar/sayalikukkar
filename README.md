@@ -5,6 +5,11 @@
 
 I have completed Bachelor of Engineering in Information Technology and I am passionate about blockchain.
 
+I love learning new technologies and interested in trying anything new.
+
+I am currently working on something cool.:wink:
+Currently learning Hyperledger fabric🌱
+
 
 
 
