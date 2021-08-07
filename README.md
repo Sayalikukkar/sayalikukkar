@@ -14,7 +14,7 @@ Ask me anything related to Blockchain.:speech_balloon:
 
 ## How to reach me
 
-You can find me making connections on [LinkedIn](https://www.linkedin.com/in/sayalikukkar11/).
+:handshake:You can find me making connections on [LinkedIn](https://www.linkedin.com/in/sayalikukkar11/).
 
 
 
