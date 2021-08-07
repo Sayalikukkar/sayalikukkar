@@ -1,6 +1,11 @@
-# Hi there, I'm Sayali👋:woman_technologist:
+# Hi there, I am Sayali👋:woman_technologist:
+
 
 ## About Me::alien:
+
+I have completed Bachelor of Engineering in Information Technology and I am passionate about blockchain.
+
+
 
 
 
