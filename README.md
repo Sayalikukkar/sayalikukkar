@@ -9,7 +9,6 @@ I love learning new technologies and interested in trying anything new.
 
 I am currently working on something cool.:wink:\
 Currently learning Hyperledger fabric.🌱\
-Ask me anything related to Blockchain.:speech_balloon:
 
 
 ## How to reach me:
