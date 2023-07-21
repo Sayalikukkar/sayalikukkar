@@ -12,7 +12,7 @@ Currently learning Hyperledger fabric.🌱
 
 ## How to reach me:
 
-:handshake:You can find me making connections on [LinkedIn](https://www.linkedin.com/in/sayalikukkar11/).
+:handshake:You can find me making connections on [LinkedIn](https://www.linkedin.com/in/sayalikukkar11/)
 
 
 
