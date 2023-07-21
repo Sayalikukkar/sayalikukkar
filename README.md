@@ -7,7 +7,7 @@ I have completed Bachelor of Engineering in Information Technology and passionat
 
 I love learning new technologies and interested in trying anything new.
 
-Currently learning Hyperledger fabric.🌱\
+Currently learning Hyperledger fabric.🌱
 
 
 ## How to reach me:
