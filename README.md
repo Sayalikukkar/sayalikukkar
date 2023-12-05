@@ -1,7 +1,7 @@
 # Hi there, I am Sayali👋
 
 
-## About Me::alien:
+## About Me
 
 I have completed Bachelor of Engineering in Information Technology and passionate about blockchain.
 
