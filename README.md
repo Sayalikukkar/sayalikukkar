@@ -1,4 +1,4 @@
-# Hi there, I am Sayali👋:woman_technologist:
+# Hi there, I am Sayali👋
 
 
 ## About Me::alien:
