@@ -13,9 +13,9 @@
 * 🛢️ Node.js | ReactJs | MongoDB | mySQL | web3.js | Ether.js | Hardhat
 * ☁ AWS | Docker | Kubernetes
 
-## How to reach me:
+## How to reach me
 
-:handshake:You can find me making connections on [LinkedIn](https://www.linkedin.com/in/sayalikukkar11/)
+:handshake: You can find me making connections on [LinkedIn](https://www.linkedin.com/in/sayalikukkar11/)
 
 
 
