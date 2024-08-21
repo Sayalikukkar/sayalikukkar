@@ -9,6 +9,11 @@
 
 💼 I'm currently revising **Data Structures & Algorithms** through **Leetcode / Striver's Sheet**, as well as doing the ocassional personal project
 
+## Tech Stack
+
+* 💻 Javascript  |  GoLang  |  Solidity
+* 🛢️ Node.js | ReactJs | MongoDB | mySQL | web3.js | Ether.js | Hardhat
+* ☁ AWS | Docker | Kubernetes
 
 ## How to reach me:
 
