@@ -15,7 +15,8 @@
 
 ## How to reach me
 
-:handshake: You can find me making connections on [LinkedIn](https://www.linkedin.com/in/sayalikukkar11/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayalikukkar11/)](https://www.linkedin.com/in/sayalikukkar11/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@sayukukkar11@gmail.com)](mailto:mail@sayukukkar11@gmail.com)
 
 
 
