@@ -1,13 +1,13 @@
-# Hi there, I am Sayali👋
+# Nice to meet you, I am Sayali👋
 
 
 ## About Me
 
-I have completed Bachelor of Engineering in Information Technology and passionate about blockchain.
+* 🌱 I have completed Bachelor of Engineering in Information Technology and passionate about Blockchain.
 
-I love learning new technologies and interested in trying anything new.
+* ✨I love learning new technologies and interested in trying anything new.
 
-Currently learning Hyperledger fabric.🌱
+* 💼 I'm currently revising **Data Structures & Algorithms** through **Leetcode / Striver's Sheet**, as well as doing the ocassional personal project
 
 
 ## How to reach me:
