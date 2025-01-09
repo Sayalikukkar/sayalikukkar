@@ -9,7 +9,7 @@
 
 ## Tech Stack
 
-* 💻 Javascript  |  GoLang  |  Solidity
+* 💻 Javascript  |  GoLang  |  Python | Solidity
 * 🛢️ Node.js | ReactJs | MongoDB | mySQL | web3.js | Ether.js | Hardhat
 * ☁ Blockchain | Ethereum | Hyperledger Fabric | Hyperledger Besu | AWS | Docker | Kubernetes
 
