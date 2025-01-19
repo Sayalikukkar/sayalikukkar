@@ -3,9 +3,10 @@
 
 ## About Me
 
-* 🌱 I have completed Bachelor of Engineering in Information Technology and passionate about Blockchain.
-* ✨I love learning new technologies and interested in trying anything new.
+* 🎓 I hold a Bachelor of Engineering in Information Technology and have a strong passion for Blockchain, AI, and Data Engineering.
+* ✨ I love learning new technologies and am always eager to explore and try anything new.
 * 💼 I'm currently revising **Data Structures & Algorithms** through **Leetcode / Striver's Sheet**, as well as doing the ocassional personal project.
+* 🌟 I am open to participating in hackathons, conferences, and collaborative events to learn, contribute, and network with like-minded professionals.
 
 ## Tech Stack
 
