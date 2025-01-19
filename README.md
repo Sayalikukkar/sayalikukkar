@@ -12,7 +12,7 @@
 
 * 💻 Javascript  |  GoLang  |  Python | Solidity
 * 🛢️ Node.js | ReactJs | MongoDB | mySQL | web3.js | Ether.js | Hardhat
-* ☁ Blockchain | Ethereum | Hyperledger Fabric | Hyperledger Besu | AWS | Docker | Kubernetes
+* ☁ Blockchain | Ethereum | Hyperledger Fabric | AWS | Docker | Kubernetes
 
 ## How to Reach Me
 
