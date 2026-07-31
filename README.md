@@ -3,7 +3,7 @@
 
 ## About Me
 
-* 💼 Data Engineer at **Emerson**
+* 💼 Data Engineer II at **Emerson**
 * 🚀 Building scalable ETL pipelines and data engineering solutions.
 * 🏗️ Building scalable, reliable, and production-ready data pipelines with Apache Spark, Airflow, Kubernetes, and Azure.
 * ☁️ Interested in Cloud, Distributed Systems, AI, and Big Data.
