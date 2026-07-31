@@ -12,9 +12,12 @@
 
 ## Tech Stack
 
-* 💻 Javascript  |  GoLang  |  Python | Solidity
-* 🛢️ Node.js | ReactJs | MongoDB | mySQL | web3.js | Ether.js | Hardhat
-* ☁ Blockchain | Ethereum | Hyperledger Fabric | AWS | Docker | Kubernetes
+* 💻 Python | SQL | Go
+* ⚙️ Apache Spark | Apache Airflow | Apache Kafka | FastAPI | PySpark | Pandas
+* 🗄️ MySQL | MongoDB | ArangoDB
+* ☁️ Azure | AWS | Docker | Kubernetes | Git | Linux
+* 📊 ETL | Data Pipelines | Data Warehousing | Data Modeling | REST APIs
+* ⛓️ Blockchain | Ethereum | Hyperledger Fabric
 
 ## How to Reach Me
 
