@@ -7,7 +7,7 @@
 * 🚀 Building scalable ETL pipelines and data engineering solutions.
 * 🏗️ Building scalable, reliable, and production-ready data pipelines with Apache Spark, Airflow, Kubernetes, and Azure.
 * ☁️ Interested in Cloud, Distributed Systems, AI, and Big Data.
-* 💡 I enjoy transforming raw data into meaningful insights
+* 💡 I enjoy transforming raw data into meaningful insights.
 * 🌟 I am open to participating in hackathons, conferences, and collaborative events to learn, contribute, and network with like-minded professionals.
 
 ## Tech Stack
