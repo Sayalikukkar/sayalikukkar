@@ -3,9 +3,11 @@
 
 ## About Me
 
-* 🎓 I hold a Bachelor of Engineering in Information Technology and have a strong passion for Blockchain, AI, and Data Engineering.
-* ✨ I love learning new technologies and am always eager to explore and try anything new.
-* 💼 I'm currently revising **Data Structures & Algorithms** through **Leetcode / Striver's Sheet**, as well as doing the ocassional personal project.
+* 💼 Data Engineer at **Emerson**
+* 🚀 Building scalable ETL pipelines and data engineering solutions.
+* 🏗️ Building scalable, reliable, and production-ready data pipelines with Apache Spark, Airflow, Kubernetes, and Azure.
+* ☁️ Interested in Cloud, Distributed Systems, AI, and Big Data.
+* 💡 I enjoy transforming raw data into meaningful insights
 * 🌟 I am open to participating in hackathons, conferences, and collaborative events to learn, contribute, and network with like-minded professionals.
 
 ## Tech Stack
